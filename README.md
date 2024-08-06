@@ -10,7 +10,7 @@
 
 # 💻 Wakatime:
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mhmmdd0000&show_icons=true&locale=en&theme=transparent&include_all_commits=true&count_private=true&layout=compact&hide=other,roff,text,gdscript,Bash,GDScript3,ActionScript,ActionScript%203,Gitignore%20file,Apache%20Config,textmate,Git%20Config,Ezhil&langs_count=8" alt="Top Languages" width="500"><br>
-<img src="https://wakatime.com/badge/user/a8d57a8c-a949-4681-8e53-8f13be475d02.svg">
+<img src="https://wakatime.com/badge/user/0a3f5e42-93eb-4d1e-9272-11eae8c43e7b.svg">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mhmmdd00) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mhmmdd_00) 
